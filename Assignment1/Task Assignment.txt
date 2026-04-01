@@ -1,0 +1,4 @@
+1. Implement Module Programming codes in Gokhale sir's notes (Hello Module, Split Module, Module Param, Export and Import).
+2. Implement Pseudo device driver code from Gokhale sir's notes. -- Practice.
+3. Implement a kernel module, that display all kernel modules (in kernel log).
+4. Implement a kernel module, that display all processes starting from current process (in kernel log).
